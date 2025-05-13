@@ -35,9 +35,13 @@ El **Conversor de Monedas** es una aplicación que permite convertir montos entr
 
 ## Estructura del Proyecto
 src/
+
 ├── Modelos/
+
 │   └── [Moneda.java](http://_vscodecontentref_/0)       # Clase que representa el resultado de la conversión.
+
 ├── principal/
+
 │   └── [Main.java](http://_vscodecontentref_/1)         # Clase principal que ejecuta la lógica del programa.
 
 ## API Utilizada
